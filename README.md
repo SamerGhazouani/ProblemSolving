@@ -1,5 +1,6 @@
 # Problem Solving Repository
 
+
 This repository contains my personal solutions to programming challenges, mainly from Codeforces and similar competitive programming platforms.  
 The goal of this project is to practice algorithmic thinking, improve my coding skills, and track my progress across different problem types and difficulty levels.
 
