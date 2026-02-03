@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
     int a, b, y = 0;
-    string s = "samer";
+    string s = "samer ghazouani";
 
     cin >> a;
     cin >> b;
