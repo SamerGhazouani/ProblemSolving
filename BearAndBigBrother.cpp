@@ -4,11 +4,11 @@
 using namespace std;
 
 int main() {
-    int a, b, y = 0
-    string s;
+    int a, b, y = 0;
+    string s
 
     cin >> a;
-    cin >> b;
+    cin > b;
 
     while (a <= b) {
         a *= 3;
