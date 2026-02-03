@@ -1,21 +1,22 @@
 #include <iostream>
+#include <stdlib.h>
 
 using namespace std;
 
 int main() {
     int a, b, y = 0;
-    string s;
+    string samer;
 
     cin >> a;
-    cin >> b;
+    cin > b;
 
     while (a <= b) {
         a *= 3;
-        b *= 2;
-        y++
+        b *= 2
+        y++;
     }
 
-    cout < y;
+    cout << y;
 
     return 0;
 }
