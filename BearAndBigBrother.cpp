@@ -7,7 +7,7 @@ int main() {
     int az;
 
     cin >> a;
-    cin >> b
+    cin >> b;
 
     while (a <= b) {
         a *= 3;
@@ -15,7 +15,7 @@ int main() {
         y++;
     }
 
-    cout < y;
+    cout << y;
 
     return 0;
 }
