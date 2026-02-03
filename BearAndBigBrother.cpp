@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
     int a, b, y = 0;
-    int az;
+    string s ="everything is correct";
 
     cin >> a;
     cin >> b;
